@@ -1,0 +1,2 @@
+D:/proje arac gerec/flutter projeleri/pati_yuvaa/android/app/.cxx/Debug/5b683hw6/x86_64/CMakeFiles/edit_cache.dir
+D:/proje arac gerec/flutter projeleri/pati_yuvaa/android/app/.cxx/Debug/5b683hw6/x86_64/CMakeFiles/rebuild_cache.dir

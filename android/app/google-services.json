@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901511422350",
+    "project_id": "patiyuvaaa",
+    "storage_bucket": "patiyuvaaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901511422350:android:39c0f98b7b54b4624c04df",
+        "android_client_info": {
+          "package_name": "com.example.pati_yuvaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuqD5orqjjuPvjU0Sw_qfuFHEKPzx8aTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
