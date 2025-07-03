@@ -24,13 +24,13 @@
 
 ## ⚙️ Core Features
 
-- 👤 User authentication (sign up / login)
-- 🐶 Create and browse pet listings
-- 📷 Upload pet images
-- 💬 Real-time messaging
-- 🔍 Search and filter functionality
-- ❤️ Add to favorites
-- 📝 User profile and settings
+- 👤 User authentication (sign up / login).
+- 🐶 Create and browse pet listings.
+- 📷 Upload pet images.
+- 💬 Real-time messaging.
+- 🔍 Search and filter functionality.
+- ❤️ Add to favorites.
+- 📝 User profile and settings.
 
 ## 📈 Future Improvements
 
