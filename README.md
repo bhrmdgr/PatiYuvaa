@@ -5,9 +5,9 @@
 ## 🎯 Purpose
 
 - Reduce the number of abandoned pets
-- Simplify and speed up the adoption process
-- Promote ethical and free pet adoption
-- Provide a humane solution for pet owners who can no longer care for their animals
+- Simplify and speed up the adoption process.
+- Promote ethical and free pet adoption.
+- Provide a humane solution for pet. owners who can no longer care for their animals.
 
 ## 📸 Screenshots
 
