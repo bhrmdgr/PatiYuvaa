@@ -34,11 +34,11 @@
 
 ## 📈 Future Improvements
 
-- 🛡️ Admin panel
-- 🚨 Abuse reporting system
-- 🧠 State management integration (Provider or Riverpod)
-- 🌐 Web version of the app
-- 🔔 Advanced push notification system
+- 🛡️ Admin panel.
+- 🚨 Abuse reporting system.
+- 🧠 State management integration (Provider or Riverpod).
+- 🌐 Web version of the app.
+- 🔔 Advanced push notification system.
 
 ## 🧪 Challenges Faced
 
