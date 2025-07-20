@@ -1,6 +1,6 @@
 # 🐾 PatiYuva - Pet Adoption Mobile Application
 
-**PatiYuva** is a modern and user-friendly mobile application developed with Flutter, designed to digitalize the pet adoption process. The app aims to help stray and homeless animals find safe, ethical, and loving homes quickly and efficiently.
+**PatiYuva** is a modern and user-friendly mobile application developed with Flutter, designed to digitalize the pet adoption process. The app aims to help stray and homeless animals find safe, ethical, and loving homes quickly and efficiently
 
 ## 🎯 Purpose
 
